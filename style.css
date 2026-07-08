@@ -1096,7 +1096,14 @@ textarea {
 
 .leadership-title {
   font-size: 1.25rem;
-  margin: 8px 0;
+  margin: 8px 0 4px;
+}
+
+.leadership-subtitle {
+  font-size: 0.9rem;
+  color: var(--accent-primary);
+  margin-bottom: 12px;
+  font-weight: 500;
 }
 
 .leadership-desc {
